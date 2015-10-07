@@ -23,27 +23,21 @@ a {
 	
 }
 
-a.hover {
-	text-decoration: underline;
-}
+a.hover {text-decoration: underline;}
 
 .header {
 	float: top-right;
 	padding-top: 10px;
 }
 
-#logo {
-	margin: auto;
-}
+#logo {margin: auto;}
 
 #search {
 	margin: auto;
 	padding-top: 15px;
 }
 
-#searchButtons {
-	margin-top: 30px;
-}
+#searchButtons {margin-top: 30px;}
 
 #footer {
 	background-color: #f2f2f2;
@@ -71,4 +65,3 @@ a.hover {
 	padding-left: 850px;
 	padding-right: 50px;
 }
-
